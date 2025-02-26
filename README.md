@@ -1,5 +1,5 @@
 # Introduction
-This repo is an unofficial "notes from the field" style wiki for common tasks within Ansible/AAP. These documents are not officially endorsed by RedHat nor do they supersede any of the official product documentation/best practices.
+This repo is an unofficial "notes from the field" style wiki for common tasks within Ansible/AAP. These documents are not officially endorsed by RedHat nor do they supersede any of the official product documentation or best practices.
 
 # Quickstarts / Getting Started
 
