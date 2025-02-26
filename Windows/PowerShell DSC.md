@@ -1,7 +1,7 @@
 # Using PowerShell DSC resources with Ansible
 
 ## What is DSC?
-PowerShell DSC (Desired State Configuration) is a PowerShell native configuration management framework. Ansible has support to directly leverage this communities body of work via playbooks.There is a fair degree of overlap between the official Microsoft resources and Ansible.Windows but there are some notable community modules available that are very useful.
+PowerShell DSC (Desired State Configuration) is a PowerShell native configuration management framework. Ansible has support to directly leverage this communities body of work via playbooks. There is a fair degree of overlap between the official Microsoft resources and Ansible.Windows but there are some notable community modules available that are very useful.
 
 1) The [DSC Community](https://github.com/dsccommunity) maintains several modules for: SQLServer, IIS, Sharepoint, ActiveDirectory, Security/Audit policies, etc.
 
