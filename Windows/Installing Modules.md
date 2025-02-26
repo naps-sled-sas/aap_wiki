@@ -19,9 +19,11 @@ Install-PackageProvider -Name NuGet
 ## Tasks
 There will install a given module from PSGallery. Docs can be found [here](https://docs.ansible.com/ansible/latest/collections/community/windows/win_psmodule_module.html).
 
+```ansible
 - name: Setup the SecurityPolicyDSC module
       community.windows.win_psmodule:
         name: SecurityPolicyDSC
         module_version: 2.10.0.0
         state: present
         accept_license: true
+```
