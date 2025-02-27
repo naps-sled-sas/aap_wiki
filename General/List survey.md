@@ -3,7 +3,7 @@ Ansible will pass survey data in as strings. Because of this there is a small ad
 
 ## Example
 Using a "textarea" answer type specify unique values on separate lines. Then reference the variable using the splitlines() method.
-![image](/images/survey_loop-1.png)
+![image](/Images/survey_loop-1.png)
 ```ansible
 - name: Install only particular updates based on the KB numbers
   ansible.windows.win_updates:

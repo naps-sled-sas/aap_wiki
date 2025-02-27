@@ -19,7 +19,7 @@ Install-Module -Name $ModuleName
 Import-Module -Name $ModuleName
 Get-DscResource -Name $ModuleName -Module $ModuleName
 ```
-![image](/images/dsc-1.png)
+![image](/Images/dsc-1.png)
 
 ## Tasks
 win_dsc is a bit unique in that the parameters are dynamic based on the specified resource_name since these are different for every resource.
