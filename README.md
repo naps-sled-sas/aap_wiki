@@ -3,6 +3,7 @@ This repo is an unofficial "notes from the field" style wiki for common tasks wi
 
 # Quickstarts / Getting Started
 - [AAP 2.5 Authentication tutorial](https://www.youtube.com/watch?v=tqo3A9G7vt0)
+- [AAP 2.5 Single Node Install Quickstart](https://github.com/wluptonrh/aap-quickstart)
 
 # General
 - [Provide lists via Survey](/General/List%20survey.md)
