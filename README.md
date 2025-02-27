@@ -3,6 +3,7 @@ This repo is an unofficial "notes from the field" style wiki for common tasks wi
 
 # General
 - [Provide lists via Survey](/General/List%20survey.md)
+- [Installing additional Ansible content](/General/Installing%20content.md)
 
 # Windows
 - [Connecting to Windows Nodes](/Windows/Connecting%20to%20Windows.md)
