@@ -1,5 +1,3 @@
-# THIS DOCUMENT IS IN-PROGRESS
-
 # What is a "Node" and how is it counted?
 - The official KB outlining what a node IS can be found [here](https://access.redhat.com/articles/3331481) it is essentially anything AAP contributes to the configuration of. This can be servers, appliances, etc. that it is directly connecting to or downstream devices such as wireless access points if a controller is configured.
 
