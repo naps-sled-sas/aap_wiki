@@ -1,5 +1,3 @@
-https://www.redhat.com/en/blog/introduction-to-ansible-builder
-
 # When to make a custom EE?
 There are a few considerations when determining if you should make a custom EE vs the requirements.yaml process outlined [here](/General/Installing%20content.md). Consider the following and make the right choice for your situation, there is no objective answer.
 
