@@ -10,7 +10,9 @@ This is done via the ansible-builder utility and outlined in the blog [here](htt
 ![image](/Images/custom-ee-1.png)
 
 # How to create a custom EE via playbook within AAP?
-Red Hat's community of practice maintains a role for building custom EE's within a playbook, [infra.ee_utilities](https://galaxy.ansible.com/ui/repo/published/infra/ee_utilities/content/role/ee_builder/). This role is at v4.0.2 at the time of writting.
+Red Hat's community of practice maintains a role for building custom EE's within a playbook, [infra.ee_utilities](https://galaxy.ansible.com/ui/repo/published/infra/ee_utilities/content/role/ee_builder/). This role is at v4.0.2 at the time of writting. 
+
+> Additional examples of this process can be found at [Illinois State Universities GitHub](https://github.com/IllinoisStateUniversity/ansible-pah-execution-environments)
 
 ## Prerequisites
 - RHEL server to run the playbook against.
