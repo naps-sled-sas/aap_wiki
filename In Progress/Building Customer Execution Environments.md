@@ -1,5 +1,5 @@
 # When to make a custom EE?
-There are a few considerations when determining if you should make a custom EE vs the requirements.yaml process outlined [here](/General/Installing%20content.md) and the official docs can be found [here](https://docs.redhat.com/en/documentation/red_hat_ansible_automation_platform/2.3/html-single/creating_and_consuming_execution_environments/index). Consider the following and make the right choice for your situation, there is no objective answer. 
+There are a few considerations when determining if you should make a custom EE vs the requirements.yaml process outlined [here](/General/Installing%20content.md) and the official docs can be found [here](https://docs.redhat.com/en/documentation/red_hat_ansible_automation_platform/2.5/html/creating_and_using_execution_environments/index). Consider the following and make the right choice for your situation, there is no objective answer. 
 
 - Is the additional project sync time proving disruptive?
 - Do I have environment specific requirements such a krb5.conf or additional trusted CAs?
