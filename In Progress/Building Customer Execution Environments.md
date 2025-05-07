@@ -15,8 +15,8 @@ Red Hat's community of practice maintains a role for building custom EE's within
 ## Prerequisites
 - RHEL server to run the playbook against.
 - A RH account to be used to pull images from registry.redhat.io
-- A git repository to store these files in. With the following requirements.yml at /collections/requirements.yml
 - A private automation hub to push our image too that also contains all the collections we want to install in our EE.
+- A git repository to store these files in. With the below at /collections/requirements.yml
 ```
 ---
 collections:
