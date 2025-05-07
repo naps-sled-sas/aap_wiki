@@ -45,8 +45,11 @@ ee_list:
     # automatically tags the image with current date
     tag: "{{ now(fmt='%m-%d-%Y') }}"
     build_items:
+      - "{{ ocp_rpm_name }}"
       - "krb5.conf"
     build_files:
+      - src: "{{ ocp_rpm_name }}"
+        dest: rpms
       - src: "krb5.conf"
         dest: rpms
     build_steps:
