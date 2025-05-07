@@ -17,4 +17,4 @@
 ![image](/Images/sub_hygiene-2.png)
 
 # How can I free up seats if a node no longer exists?
-- You can manually remove nodes from the host metrics view but there is also an [API](https://developers.redhat.com/api-catalog/api/ansible-automation-controller) call that can be used (ctrl + f "host metrics"). Example tasks coming soon. 
+- You can manually remove nodes from the host metrics view but there is also an [API](https://developers.redhat.com/api-catalog/api/ansible-automation-controller) call that can be used (ctrl + f "host metrics"). Ansible module for this functionality is currently submitted in a [RFE](https://issues.redhat.com/browse/AAPRFE-1926).
