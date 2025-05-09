@@ -3,7 +3,7 @@
 
 - A "seat" is taken after a node is connected to. This means simply importing a server into an inventory does NOT consume a seat.
 
-- So in summary. A "Node" is something AAP has configured not just imported. This includes devices configured by proxy through something like a controller appliance or API endpoint. At the time of writing these downstream devices need to be manually accounted for.
+- So in summary: A "Node" is something AAP has configured not just imported. This includes devices configured by proxy through something like a controller appliance or API endpoint. At the time of writing these downstream devices need to be manually accounted for.
 
 - There is deduplication across inventories but only for matching hostnames. If for example an inventory plugin imports a host using hostname but another inventory is source from a file using IP address. This will result in the same node consuming two seats. It is encouraged to have consistency across your sources or make use of [constructed inventories](https://www.redhat.com/en/blog/how-to-use-the-new-constructed-inventory-feature-in-aap-2.4) to "chop up" a known good source.
 
