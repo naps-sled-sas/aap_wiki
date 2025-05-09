@@ -5,6 +5,7 @@ PRs welcome but please read [contribution guidelines](CONTRIBUTING.md).
 
 # Quickstarts / Getting Started
 - [AAP 2.5 Authentication tutorial](https://www.youtube.com/watch?v=tqo3A9G7vt0)
+- [On-Demand labs (RH login required)](https://www.redhat.com/en/interactive-labs/ansible)
 
 # General
 - [Provide lists via Survey](/General/List%20survey.md)
