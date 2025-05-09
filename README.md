@@ -10,6 +10,7 @@ PRs welcome but please read [contribution guidelines](CONTRIBUTING.md).
 - [Provide lists via Survey](/General/List%20survey.md)
 - [Installing additional Ansible content](/General/Installing%20content.md)
 - [Good Subscription Hygine](/General/Subscription%20Hygiene.md)
+- [Building Custom Execution Environments](/General/Building%20Customer%20Execution%20Environments.md)
 
 # Windows
 - [Connecting to Windows Nodes](/Windows/Connecting%20to%20Windows.md)
