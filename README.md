@@ -3,9 +3,10 @@ This repo is an unofficial "notes from the field" style wiki for common tasks wi
 
 PRs welcome but please read [contribution guidelines](CONTRIBUTING.md).
 
-# Quickstarts / Getting Started
+# External Links
 - [AAP 2.5 Authentication tutorial](https://www.youtube.com/watch?v=tqo3A9G7vt0)
 - [On-Demand labs (RH login required)](https://www.redhat.com/en/interactive-labs/ansible)
+- [AAP running release notes](https://docs.redhat.com/en/documentation/red_hat_ansible_automation_platform/2.5/html/release_notes/patch_releases)
 
 # General
 - [Provide lists via Survey](/General/List%20survey.md)
