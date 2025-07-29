@@ -14,6 +14,7 @@ PRs welcome but please read [contribution guidelines](CONTRIBUTING.md).
 - [Good Subscription Hygine](/General/Subscription%20Hygiene.md)
 - [Building Custom Execution Environments](/General/Building%20Customer%20Execution%20Environments.md)
 - [Special Variables](/General/Special%20Variables.md)
+- [Using custom facts](/General/Custom%20facts.md)
 
 # Windows
 - [Connecting to Windows Nodes](/Windows/Connecting%20to%20Windows.md)
