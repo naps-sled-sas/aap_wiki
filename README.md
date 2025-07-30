@@ -15,6 +15,7 @@ PRs welcome but please read [contribution guidelines](CONTRIBUTING.md).
 - [Building Custom Execution Environments](/General/Building%20Customer%20Execution%20Environments.md)
 - [Special Variables](/General/Special%20Variables.md)
 - [Using custom facts](/General/Custom%20facts.md)
+- [Jinja filters / coalescing values](/General/Jinja%20filters.md)
 
 # Windows
 - [Connecting to Windows Nodes](/Windows/Connecting%20to%20Windows.md)
